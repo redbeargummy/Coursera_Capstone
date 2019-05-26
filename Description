@@ -1,0 +1,22 @@
+Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute.
+Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure
+that you explicitly describe your audience and why they would care about your problem.
+
+The problem would be an excellent location for opening a new Coffee shop in the city of Toronto. The Foursquare data, such as location, 
+reviews, tips will be used to determine the best location for Coffee shop, the customers, whether they are satisfied or not by the service
+of the current neighbors, what attracts the customers and so on. The choice of location is very important thing, which determine whether 
+the business will be successful or not.
+
+Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare 
+location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location
+data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is 
+only Foursquare location data.
+
+I will use location data of various data sets including Foursquare data for determining:
+1)	The potential customer flows. For instance, in the chosen location should be some business centers, companies, metro stations or 
+shopping centers which will provide customer’s demand;
+2)	The customer satisfaction. For example, whether customers are satisfied by the current coffee shops by the ratings or tips in the 
+Foursquare, by what coffee shops attract people.
+3)	Density of the current neighbors in the location. Also you should choose proper area with not huge amount of competitors, because 
+there is a chance will come to another coffee shop.
+All this information will help me to choose proper location for Coffee shop and determine whether it will be successful or not. 
